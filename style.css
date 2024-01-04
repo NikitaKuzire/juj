@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    
+}
+header,main {
+    text-align: center;
+}
+footer {
+    background-color: black;
+    padding: 2px ;
+}
+footer p {
+    background-color: white;
+}
+main img {
+       border-left:10px dotted black;
+}
